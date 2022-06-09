@@ -1,7 +1,5 @@
 # Calculadora-JS
- Projeto Calculadora JS
- 
- Projeto do Codepan.io by: https://codepen.io/lalwanivikas.
+ Projeto Calculadora JS do Codepan.io by: https://codepen.io/lalwanivikas.
  
  um projeto visando estudo e pratica em leitura de código e Javascript, entendimento(código) do mesmo e reaplicando a calculadora.
  
